@@ -1,18 +1,18 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-10-01 06:00:11）
+## 免费订阅更新时间（2025-10-01 18:00:25）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A0ProxyGo.org%20%E5%87%BA%E6%B5%B7%E5%BF%85%E7%94%A8%E5%AF%BC%E8%88%AA<br>trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:3160?sni=www.nintendogames.net&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A1%E5%85%8D%E8%B4%B9apple%20id%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2FfreeAppleId%2F<br>trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1802?sni=www.nintendogames.net&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A2%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2Ffreenode%2F<br>trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2004-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>trojan://253bc477d4e43c209f2d427272968280@160.16.87.174:3957?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2005-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?sni=www.nintendogames.net&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2006-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>
+> vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyDikaBQcm94eUdvLm9yZyDlh7rmtbflv4XnlKjlr7zoiKoiLCJhZGQiOiIxMDguMTgxLjEwLjE3IiwicG9ydCI6IjgwIiwiaWQiOiI0NzRlODY4MC03MDFmLTExZWUtYjQzNi0yMDVjNmQ1ZjVkNzgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIn0=<br>vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyDikaHlhY3otLlhcHBsZSBpZO+8mmh0dHBzOi8vcHJveHlnby5vcmcvZnJlZUFwcGxlSWQvIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIsInBvcnQiOiI4MCIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIn0=<br>vless://910e599d-9bdb-4704-b9f6-30904273a587@edge-api.cyberscaler.net:443?security=reality&type=xhttp&sni=ajax.aspnetcdn.com&fp=chrome&sid=9b4e2a7c1d&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A2%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2Ffreenode%2F<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.234.239.39:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&host=sni.001316.xyz&sni=sni.001316.xyz&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2004-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDA1LVByb3h5R28ub3Jn77yM5q+P5pel5YWN6LS55YiG5LqrIiwiYWRkIjoiMjA1LjIzMy4xODEuMyIsInBvcnQiOiI0NDMiLCJpZCI6ImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJzbmkiOiJmYXJpZC4xLmJlcm96aGEuaXIiLCJwYXRoIjoiL3VzLmtrcC5tZS5ldS5vcmcvYWEiLCJob3N0IjoiZmFyaWQuMS5iZXJvemhhLmlyIn0=<br>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.125.21:22222?security=tls&type=ws&path=%2Ftelegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&sni=telegram-channel-vlessconfig.sohala.uk&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2006-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>
 > 
 
 ## 订阅地址：
 
-> https://sub.proxygo.org/share/col/ProxyGo.org?token=QmAG4xSnkME6UV9MVXl4_
+> https://sub.proxygo.org/share/col/ProxyGo.org?token=7azBt6H_2lhFw_PZh6aRq
 > 
 
 ## **Clash、SS等客户端订阅地址一键转换：**

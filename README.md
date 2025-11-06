@@ -1,18 +1,18 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-05 06:00:05）
+## 免费订阅更新时间（2025-11-06 12:00:04）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@45.129.2.145:10810#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A0ProxyGo.org%20%E5%87%BA%E6%B5%B7%E5%BF%85%E7%94%A8%E5%AF%BC%E8%88%AA<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A1%E5%85%8D%E8%B4%B9apple%20id%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2FfreeAppleId%2F<br>vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?security=tls&type=ws&path=%2Fcontainers%2Fde&host=om1.omidsuccess.uk&sni=om1.omidsuccess.uk#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A2%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2Ffreenode%2F<br>ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw==@185.22.154.86:10081#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.228:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.219:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2002-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>
+> vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A0ProxyGo.org%20%E5%87%BA%E6%B5%B7%E5%BF%85%E7%94%A8%E5%AF%BC%E8%88%AA<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A1%E5%85%8D%E8%B4%B9apple%20id%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2FfreeAppleId%2F<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A2%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2Ffreenode%2F<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTRlOTBkZi1hM2VlLTQ2NTQtYTlmNi1kMTE4ZTAyZGQwMmE=@sl.fgmcx.top:41047#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.228:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2002-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>
 > 
 
 ## 订阅地址：
 
-> https://sub.proxygo.org/share/col/ProxyGo.org?token=Lx8taoKwh8b9KTzOn7Z91
+> https://sub.proxygo.org/share/col/ProxyGo.org?token=8HA4h1UJd_sT9nF1QzOf_
 > 
 
 ## **Clash、SS等客户端订阅地址一键转换：**

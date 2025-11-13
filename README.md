@@ -1,18 +1,18 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-07 12:00:07）
+## 免费订阅更新时间（2025-11-13 23:31:22）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A0ProxyGo.org%20%E5%87%BA%E6%B5%B7%E5%BF%85%E7%94%A8%E5%AF%BC%E8%88%AA<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A1%E5%85%8D%E8%B4%B9apple%20id%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2FfreeAppleId%2F<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?security=none&type=grpc&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E2%91%A2%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%9Ahttps%3A%2F%2Fproxygo.org%2Ffreenode%2F<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTRlOTBkZi1hM2VlLTQ2NTQtYTlmNi1kMTE4ZTAyZGQwMmE=@sl.fgmcx.top:41047#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2004-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.228:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2001-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?security=none&type=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%2002-ProxyGo.org%EF%BC%8C%E6%AF%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB<br>
+> vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxMDMuMjQzLjI2LjIwOSIsInBvcnQiOiIxMDA4NiIsImlkIjoiYzVlYzJlM2YtYzA1OC00NmE4LWExNDgtMTgzMTgyNGJiOTRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGZ4aW9LMFZrS3hUZHBWUUo0cnY4SGdsQXUwdnp2Ng==@146.19.49.251:443#US美国(ProxyGo免费节点分享)<br>vless://0a5ab719-2407-4398-b507-8437ef365023@104.21.31.4:8880?encryption=none&security=none&type=ws&host=underthegun.cfd.&path=/FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY#US美国(ProxyGo免费节点分享)<br>vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&host=fl-3-direct.djarbnet.ru&path=/getupdates#(ProxyGo免费节点分享)<br>trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?security=tls&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443#US美国(ProxyGo免费节点分享)<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.186:8880?encryption=none&security=none&type=grpc#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
 
-> https://sub.proxygo.org/share/col/ProxyGo.org?token=CGoSrKpgD0CpOH9-qXXA6
+> https://caiji.proxygo.org/v2ray.php?key=4d55b0c937c854686b22625a2df50773
 > 
 
 ## **Clash、SS等客户端订阅地址一键转换：**

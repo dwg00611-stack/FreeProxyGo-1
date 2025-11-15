@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-15 12:00:00）
+## 免费订阅更新时间（2025-11-15 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=/getupdates#SG新加坡(ProxyGo免费节点分享)<br>vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=/getupdates#(ProxyGo免费节点分享)<br>trojan://2274c52572e721086f8bd8f88984643c@58.152.110.9:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?security=tls&sni=dingding-doc.com&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.115:8880?encryption=none&security=none&type=grpc#FR法国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiU0fmlrDliqDlnaEoUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxOC4xNDMuMjQ4LjE1NyIsInBvcnQiOiI1Mzc4NCIsImlkIjoiM2E0ODBhN2QtYTRiMy00NmUxLWQ0YzQtMDQyNTZiNzdmMDQ1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIxOC4xNDMuMjQ4LjE1NyIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vless://aa7f42cc-616f-4550-9a87-4b85bb409121@103.53.81.119:59951?encryption=none&security=tls&sni=vless3.datatestvless.click&type=ws&host=vless3.datatestvless.click&path=/?ed=2560&Telegram🇨🇳@WangCai2#JP日本(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>
 > 
 
 ## 订阅地址：

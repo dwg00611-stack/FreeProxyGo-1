@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-22 11:00:00）
+## 免费订阅更新时间（2025-11-22 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?encryption=none&security=none&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://Parsashonam-Bot-37@104.17.147.22:8080?encryption=none&security=none&type=ws&host=Fi.Parsashonam.CfD.&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#US美国(ProxyGo免费节点分享)<br>vless://id8567660651@178.130.43.35:443?encryption=none&flow=xtls-rprx-vision&security=none&sni=ozon.ru&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>vless://cloud1163@cloud.whitenet.online:443?encryption=none&flow=xtls-rprx-vision&security=none&sni=eh.vk.com&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>vless://393040206-client-475@usa1.tunnelx.space:2087?encryption=none&security=none&sni=ws.usa1.tunnelx.space&type=ws&host=ws.usa1.tunnelx.space&path=/assets/img/banner_v3.webp/#(ProxyGo免费节点分享)<br>vless://393040206-client-475@usa1.tunnelx.space:2087?encryption=none&security=none&type=ws&host=ws.usa1.tunnelx.space&path=/assets/img/banner_v3.webp/#(ProxyGo免费节点分享)<br>
+> vless://f61a4285-7264-4d07-9408-7b9ba1922c26@121.165.101.69:19413?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=telegram🇨🇳@wangcai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@94.142.255.97:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#NL荷兰(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@85.193.95.23:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#NL荷兰(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://aa7f42cc-616f-4550-9a87-4b85bb409121@178.239.123.216:24443?encryption=none&security=tls&sni=vless3.datatestvless.click&type=ws&host=vless3.datatestvless.click&path=/?ed=2560#(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@38.47.118.166:11001?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

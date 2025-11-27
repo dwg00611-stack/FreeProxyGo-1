@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-27 10:00:00）
+## 免费订阅更新时间（2025-11-27 11:00:01）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxNTQuMjEuMjAxLjgzIiwicG9ydCI6IjQ0MyIsImlkIjoiNGJmMDc1ZjUtNGQ1ZS00ZDM5LWY1YWItYjMyYTg2MjUwZjBlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhrLm5iZWUucHAudWEiLCJwYXRoIjoiL2FhIiwidGxzIjoidGxzIiwic25pIjoiaGsubmJlZS5wcC51YSIsImFscG4iOiIifQ==<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@112.186.67.102:18788?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=/@Marisa_kristi#FR法国(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@112.186.67.102:18788?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=/@Marisa_kristi#FR法国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.147.255.67:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@46.226.167.227:7443?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=/@Marisa_kristi#US美国(ProxyGo免费节点分享)<br>
+> vless://00000000-0000-4000-8000-000000000000@46.226.167.227:7443?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=/@Marisa_kristi#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@193.124.18.13:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.147.255.67:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#FR法国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#FR法国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@91.149.253.249:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

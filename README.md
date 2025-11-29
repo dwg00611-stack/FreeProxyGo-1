@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-11-29 12:00:00）
+## 免费订阅更新时间（2025-11-29 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@68.64.176.135:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@146.56.99.255:56789?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbHJPMWZ3dVRBMFdpU25OWlV5ekx6@62.133.60.43:36456#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#US美国(ProxyGo免费节点分享)<br>vless://aa7f42cc-616f-4550-9a87-4b85bb409121@210.87.111.61:39738?encryption=none&security=tls&sni=vless3.datatestvless.click&type=ws&host=vless3.datatestvless.click&path=/?ed=2560&Telegram@freecodes#NL荷兰(ProxyGo免费节点分享)<br>
+> vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.147.255.67:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#RU俄罗斯(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.163:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@142.132.140.130:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#GB英国(ProxyGo免费节点分享)<br>vless://8b78a1cb-fe3b-47b8-bbb6-ad78af4cb581@141.227.134.128:14407?encryption=none&security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#FR法国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

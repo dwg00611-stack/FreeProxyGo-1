@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-01 10:00:00）
+## 免费订阅更新时间（2025-12-01 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.142.30.4:2096?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#FR法国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.142.30.4:2096?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#RU俄罗斯(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@108.162.198.24:2096?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@108.162.198.11:2096?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@49.12.210.182:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#DE德国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@81.200.154.2:2053?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#PL波兰(ProxyGo免费节点分享)<br>
+> vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.1.250:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@139.185.34.131:443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZUdBY3dhdmlXeFh6Zzg3QXd2bkU2Z1diaEhIR3d3Qg==@89.46.233.148:443#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@83.147.255.67:8443?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@146.56.99.255:56789?encryption=none&security=tls&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560#JP日本(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>
 > 
 
 ## 订阅地址：

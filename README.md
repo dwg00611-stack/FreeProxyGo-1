@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-03 11:00:02）
+## 免费订阅更新时间（2025-12-03 12:00:01）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://TrueVPN_91780028@v547154.hosted-by-vdsina.com:8443?encryption=none&flow=xtls-rprx-vision&security=none&sni=ozon.ru&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)<br>vless://Parsashonam-324@91.98.130.176:443?encryption=none&flow=xtls-rprx-vision&security=none&sni=tgju.org&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)<br>vless://TELEGRAM-CONFiGLiNE-76@151.101.0.0:80?encryption=none&security=none&sni=azaiji3.global.ssl.fastly.net&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)<br>vless://_911331@89.23.113.137:49943?encryption=none&flow=xtls-rprx-vision&security=none&sni=ietf.org&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)<br>vless://_911331@s3.nobaddays.site:49943?encryption=none&flow=xtls-rprx-vision&security=none&sni=ietf.org&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)<br>vless://SERVERNETT@yuo0.sernett.ir:80?encryption=none&security=none&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)<br>
+> vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.176.239.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram🇨🇳#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram@freecodes/?ed=2560#FR法国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.251.81.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram🇨🇳@wangcai2/?ed=2560#CA加拿大(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.198.173.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram@wangcai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.153.168.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram🇨🇳@WangCai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@155.46.213.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram@wangcai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

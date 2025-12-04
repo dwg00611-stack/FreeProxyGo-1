@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-04 10:00:00）
+## 免费订阅更新时间（2025-12-04 11:00:02）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.176.239.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram🇨🇳#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram@freecodes/?ed=2560#FR法国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.251.81.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram🇨🇳@wangcai2/?ed=2560#CA加拿大(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.198.173.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram@wangcai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.153.168.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/Telegram🇨🇳@WangCai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://d342d11e-d424-4583-b36e-524ab1f0afa4@155.46.213.39:2096?encryption=none&security=tls&sni=sni.001316.xyz&type=ws&host=sni.001316.xyz&path=/telegram@wangcai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>
+> vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI4Mi4xOTguMjQ2Ljk3IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#US美国(ProxyGo免费节点分享)<br>vless://18ff277a-3b9a-46a0-842e-290f2b0661d2@whatismyipaddress.com:80?encryption=none&security=none&sni=hidden-base-217b.powas74490.workers.dev&type=ws&host=hidden-base-217b.powas74490.workers.dev&path=/#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@120.241.226.28:19832#HK中国香港(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.139.26.173:57456#RU俄罗斯(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@120.241.226.28:19852#HK中国香港(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-12 21:00:00）
+## 免费订阅更新时间（2025-12-12 22:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxODMuNjAuMjU0LjE3MyIsInBvcnQiOiI0MTMxNyIsImlkIjoiODI1MzllYjctMThjOC00OGQwLWJiOWMtNTVkMWI2ZTQ3ZjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJwYXRoIjoiL29iaiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxNC4xNy43MS4yMzciLCJwb3J0IjoiNDEzMjAiLCJpZCI6IjgyNTM5ZWI3LTE4YzgtNDhkMC1iYjljLTU1ZDFiNmU0N2Y1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbWcxNC4zNjBidXlpbWcuY29tIiwicGF0aCI6Ii9vYmoiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&security=none&type=ws&host=silent-paper-fa57.fipiyag989.workers.dev&path=/Cczu8jOo6HDo?ed=2560#DE德国(ProxyGo免费节点分享)<br>vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80?encryption=none&security=none&type=ws&host=zedd.global.ssl.fastly.net&path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#HK中国香港(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206WE1qNjVlcENjeWpONkRTcXowVzBWTGxaV2FXK1hMUWRNZnRGUUlYZmY2cz0=@zyipv6.pai50288.uk:55588#HK中国香港(ProxyGo免费节点分享)<br>
+> vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@98.70.151.190:443?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=/getupdates#SG新加坡(ProxyGo免费节点分享)<br>vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@185.103.252.54:2053?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=/?ed=2560#DE德国(ProxyGo免费节点分享)<br>vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&host=fl-3-direct.djarbnet.ru&path=/getupdates#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI0Ny4yNDUuMTA2LjE5MyIsInBvcnQiOiIyMjQzMyIsImlkIjoiYmZjYjEwM2YtMjEzMy00OTY1LTg2ODQtNmI0YzhlZjdhNzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vless://470df3e9-ff22-485b-94b3-7ad10ef5372a@185.219.134.25:31564?encryption=none&security=tls&sni=kuangbao.xiejiang.site&type=ws&host=kuangbao.xiejiang.site&path=/?ed=2560#RU俄罗斯(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

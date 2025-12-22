@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-22 09:00:09）
+## 免费订阅更新时间（2025-12-22 10:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://e258977b-e413-4718-a3af-02d75492c349@172.67.79.222:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=/?ed=2560#SG新加坡(ProxyGo免费节点分享)<br>vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@125.137.81.171:10033?encryption=none&security=tls&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=/proxyip=sjc.o00o.ooo#KR韩国(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.18.189.247:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@68.64.176.135:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.18.189.247:443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&type=ws&host=yyds.x-aniu----hk.netlib.re&path=/?ed=2560#NL荷兰(ProxyGo免费节点分享)<br>vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=golabi.mrconfigur.site&type=ws&host=golabi.mrconfigur.site&path=/#US美国(ProxyGo免费节点分享)<br>
+> vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@194.113.73.136:4655?encryption=none&security=none&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InYxMi5oZGFjZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#US美国(ProxyGo免费节点分享)<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ2MzAuaGRhY2QuY29tIiwicG9ydCI6IjMwODMwIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IjUxYWE4ZjcuaGYuZ2xhZG9zLWNvbmZpZy5uZXQiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>
 > 
 
 ## 订阅地址：

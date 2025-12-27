@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2025-12-27 11:00:01）
+## 免费订阅更新时间（2025-12-27 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiRlLms5Xlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@docker.1panel.live:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>trojan://5a2c16f9@104.26.1.110:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjIwMTM6OjgiLCJwb3J0IjoiNjIyMTEiLCJpZCI6ImUxNzg2ZDQ5LWNjYmEtNDY2Yi1hMGRkLWUxYWI1OWJkODNiYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkb3VmZW5nLnBhZ2VzLmRldiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>
+> vless://e258977b-e413-4718-a3af-02d75492c349@104.16.46.254:443?encryption=none&security=tls&sni=sg.xmm9527.xyz&type=ws&host=sg.xmm9527.xyz&path=/?ed=2560#SG新加坡(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.16.63.129:443?encryption=none&security=tls&sni=sg.xmm9527.xyz&type=ws&host=sg.xmm9527.xyz&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.16.45.251:443?encryption=none&security=tls&sni=hk.xaniusnippets.qzz.io&type=ws&host=hk.xaniusnippets.qzz.io&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.21.31.40:443?encryption=none&security=tls&sni=sg.xmm9527.xyz&type=ws&host=sg.xmm9527.xyz&path=/?ed=2560#SG新加坡(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.16.63.129:443?encryption=none&security=tls&sni=tw.xmm9527.xyz&type=ws&host=tw.xmm9527.xyz&path=/?ed=2560#TW中国台湾(ProxyGo免费节点分享)<br>vless://e258977b-e413-4718-a3af-02d75492c349@104.16.62.80:443?encryption=none&security=tls&sni=hk.xaniusnippets.qzz.io&type=ws&host=hk.xaniusnippets.qzz.io&path=/?ed=2560#FR法国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

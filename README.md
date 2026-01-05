@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-01-05 09:00:10）
+## 免费订阅更新时间（2026-01-05 10:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#US美国(ProxyGo免费节点分享)<br>trojan://5a2c16f9@104.26.1.110:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#US美国(ProxyGo免费节点分享)<br>vless://3afad5df-e056-4301-846d-665b4ef51968@193.122.100.41:8443?encryption=none&security=tls&sni=x.kkii.eu.org&type=ws&host=x.kkii.eu.org&path=/193.122.100.41:8443#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>trojan://f9f59b4f-67b5-4ffa-a832-c9e38da35ac4@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#HK中国香港(ProxyGo免费节点分享)<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#US美国(ProxyGo免费节点分享)<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw#US美国(ProxyGo免费节点分享)<br>vless://3afad5df-e056-4301-846d-665b4ef51968@59.3.3.161:8443?encryption=none&security=tls&sni=x.kkii.eu.org&type=ws&host=x.kkii.eu.org&path=/59.3.3.161:8443#US美国(ProxyGo免费节点分享)<br>trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#US美国(ProxyGo免费节点分享)<br>vless://3afad5df-e056-4301-846d-665b4ef51968@59.3.254.241:10101?encryption=none&security=tls&sni=x.kkii.eu.org&type=ws&host=x.kkii.eu.org&path=/59.3.254.241:10101#KR韩国(ProxyGo免费节点分享)<br>vless://3afad5df-e056-4301-846d-665b4ef51968@59.3.254.241:10101?encryption=none&security=tls&sni=x.kkii.eu.org&type=ws&host=x.kkii.eu.org&path=/59.3.254.241:10101#KR韩国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

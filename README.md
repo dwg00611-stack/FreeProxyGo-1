@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-01-08 10:00:00）
+## 免费订阅更新时间（2026-01-08 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://5a2c16f9-e365-4080-8d38-6924c3835586@141.94.223.93:8443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#TW中国台湾(ProxyGo免费节点分享)<br>vless://5a2c16f9-e365-4080-8d38-6924c3835586@91.199.32.191:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#TW中国台湾(ProxyGo免费节点分享)<br>vless://5a2c16f9-e365-4080-8d38-6924c3835586@51.83.40.171:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#TW中国台湾(ProxyGo免费节点分享)<br>vless://5a2c16f9-e365-4080-8d38-6924c3835586@140.99.233.236:2096?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#KR韩国(ProxyGo免费节点分享)<br>trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=////#US美国(ProxyGo免费节点分享)<br>vless://5a2c16f9-e365-4080-8d38-6924c3835586@54.36.98.241:2053?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#TW中国台湾(ProxyGo免费节点分享)<br>
+> trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Y2Q5Zjg2NDUtODExZS00NjZkLWFmNjgtMDg2OGFkNWM5NTUy@hkg24-20250621185858bb8394.singdns.com:23341#US美国(ProxyGo免费节点分享)<br>trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206NDRmZjVlNmYtZTU2MS00YzMwLWI4YTktNzU4M2RkODE4MWRh@hkg24-20250621185858bb8394.singdns.com:23341#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：

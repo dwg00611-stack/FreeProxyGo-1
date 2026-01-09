@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-01-09 10:00:00）
+## 免费订阅更新时间（2026-01-09 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Y2Q5Zjg2NDUtODExZS00NjZkLWFmNjgtMDg2OGFkNWM5NTUy@hkg24-20250621185858bb8394.singdns.com:23341#US美国(ProxyGo免费节点分享)<br>trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206NDRmZjVlNmYtZTU2MS00YzMwLWI4YTktNzU4M2RkODE4MWRh@hkg24-20250621185858bb8394.singdns.com:23341#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#DE德国(ProxyGo免费节点分享)<br>
+> trojan://eab777de-fef2-4794-9a9f-fa63ed7b1360@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206NGNhODM3ZDQtNmRhZC00ZGQ5LWIwYmYtMjQ5ZjBkOGUzZWVl@hkg24-20250621185858bb8394.singdns.com:23341#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM=@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:18017#SG新加坡(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>trojan://f1a09e6c-f30c-43ca-a9e4-e2015ee5c0da@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
